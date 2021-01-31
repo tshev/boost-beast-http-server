@@ -3,7 +3,6 @@
 #include <boost/beast/version.hpp>
 #include <unordered_map>
 #include <boost/asio.hpp>
-#include <boost/filesystem.hpp>
 #include <chrono>
 #include <cstdlib>
 #include <cstring>
